@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hi there! 👋
 
+I'm Jasmine and I'm a third-year Computer Science student at Boston University.
 <!--
-**hanyjasmine/hanyjasmine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Github stats](https://github-readme-stats.vercel.app/api?username=hanyjasmine&theme=rose_pine&show_icons=true)
