@@ -17,3 +17,11 @@ Here are some ideas to get you started:
 
 ### Profile Stats
 ![Github stats](https://github-readme-stats.vercel.app/api?username=hanyjasmine&theme=rose_pine&show_icons=true&count_private=true)
+
+## Connect with me!
+[<img align="left" width="30px" src="https://www.iconsdb.com/icons/preview/color/C3FAE8/message-xxl.png" />][email]
+[<img align="left" width="30px" src="https://www.iconsdb.com/icons/preview/color/C3FAE8/linkedin-3-xxl.png" />][linkedin]
+<br>
+
+[linkedin]: https://www.linkedin.com/in/hanyjasmine/
+[email]: mailto:hjasmine@bu.edu
