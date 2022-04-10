@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ### Profile Stats
 <img src="https://github-readme-stats.vercel.app/api?username=hanyjasmine&show_icons=true&show_icons=true&theme=rose_pine&count_private=true" height="150"></img>
 
-## Connect with me!
+### Connect with me!
 [<img align="left" width="30px" src="https://www.iconsdb.com/icons/preview/color/C3FAE8/message-xxl.png" />][email]
 [<img align="left" width="30px" src="https://www.iconsdb.com/icons/preview/color/C3FAE8/linkedin-3-xxl.png" />][linkedin]
 <br>
