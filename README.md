@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### Profile Stats
 <img src="https://github-readme-stats.vercel.app/api?username=hanyjasmine&show_icons=true&show_icons=true&theme=rose_pine&count_private=true" height="150"></img>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dcmaglione&layout=compact&theme=rose_pine" height="150"></img>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanyjasmine&layout=compact&theme=rose_pine" height="150"></img>
 
 ### Connect with me!
 [<img align="left" width="30px" src="https://www.iconsdb.com/icons/preview/color/C3FAE8/message-xxl.png" />][email]
