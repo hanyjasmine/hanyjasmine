@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanyjasmine&layout=compact&theme=rose_pine" height="150"></img>
 
 ### Connect with me!
-[<img align="left" width="30px" src="https://www.iconsdb.com/icons/preview/color/C3FAE8/message-xxl.png" />][email]
-[<img align="left" width="30px" src="https://www.iconsdb.com/icons/preview/color/C3FAE8/linkedin-3-xxl.png" />][linkedin]
+[<img align="left" width="30px" src="https://www.iconsdb.com/icons/preview/color/95E3E6/message-xxl.png" />][email]
+[<img align="left" width="30px" src="https://www.iconsdb.com/icons/preview/color/95E3E6/linkedin-3-xxl.png" />][linkedin]
 <br>
 
 [linkedin]: https://www.linkedin.com/in/hanyjasmine/
