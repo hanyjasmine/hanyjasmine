@@ -3,7 +3,7 @@
 I'm Jasmine and I'm a rising fourth-year Computer Science student at Boston University.
 
 ### Profile Stats
-<img src="https://github-readme-stats.vercel.app/api?username=hanyjasmine&show_icons=true&show_icons=true&theme=rose_pine&count_private=true&include_all_commits=true" height="150"></img>
+<img src="https://github-readme-stats.vercel.app/api?username=hanyjasmine&show_icons=true&show_icons=true&theme=rose_pine&count_private=true" height="150"></img>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanyjasmine&layout=compact&theme=rose_pine&exclude_repo=CSGO-Outcome-Prediction-with-ML" height="150"></img>
 
 ### Connect with me!
