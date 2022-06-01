@@ -1,4 +1,4 @@
-### Hi there! <img src="https://user-images.githubusercontent.com/28206070/147329764-e79204c7-8f22-4a6f-a689-5fd5cc2302ed.gif" width="30px">
+### Hi there! <img src="https://user-images.githubusercontent.com/28206070/147329764-e79204c7-8f22-4a6f-a689-5fd5cc2302ed.gif" width="40">
 
 I'm Jasmine and I'm a rising fourth-year Computer Science student at Boston University.
 
