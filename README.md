@@ -1,6 +1,6 @@
 ### Hi there! <img src="https://user-images.githubusercontent.com/28206070/147329764-e79204c7-8f22-4a6f-a689-5fd5cc2302ed.gif" width="30">
 
-I'm Jasmine and I'm a rising fourth-year Computer Science student at Boston University.
+I'm Jasmine and I'm a fourth-year Computer Science student at Boston University.
 
 ### Profile Stats
 <img src="https://github-readme-stats.vercel.app/api?username=hanyjasmine&show_icons=true&show_icons=true&theme=rose_pine&count_private=true" height="150"></img>
